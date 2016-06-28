@@ -13,8 +13,4 @@
 @property (nonatomic, strong) NSString *imageURL;
 @property (nonatomic, strong) NSString *imageName;
 
-- (void)setImageName:(NSString *)imageName;
-- (void)setImageURL:(NSString *)imageURL;
-- (NSString *)imageName;
-- (NSString *)imageURL;
 @end

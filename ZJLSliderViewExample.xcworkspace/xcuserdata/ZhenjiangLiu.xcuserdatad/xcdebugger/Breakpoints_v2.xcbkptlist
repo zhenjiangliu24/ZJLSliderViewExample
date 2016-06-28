@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ZJLSliderViewExample/ZJLSliderView/ZJLSliderView.m"
-            timestampString = "488774109.951808"
+            timestampString = "488847204.307384"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "76"
-            endingLineNumber = "76"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
             landmarkName = "-initScrollView"
             landmarkType = "5">
          </BreakpointContent>
